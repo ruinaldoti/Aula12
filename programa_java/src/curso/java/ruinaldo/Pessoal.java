@@ -1,8 +1,11 @@
 package curso.java.ruinaldo;
 
+import java.util.Date;
+
 public class Pessoal {
 	private String nome;
 	private int idade;
+	private Date dataNascimento;
 
 	public String getNome() {
 		return nome;
