@@ -2,6 +2,7 @@ package curso.java.ruinaldo;
 
 public class Pessoal {
 	private String nome;
+	private int idade;
 
 	public String getNome() {
 		return nome;
